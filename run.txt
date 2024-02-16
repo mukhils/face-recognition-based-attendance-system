@@ -1,0 +1,4 @@
+Activate virtualenv if not 
+to activate virtualenv ---> .\env\Scripts\activate
+
+to run program ---> python3 .\app.py
